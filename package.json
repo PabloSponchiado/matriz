@@ -6,11 +6,15 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pablo Sponchiado",
   "license": "ISC",
   "description": "",
   "dependencies": {
     "prompt-sync": "^4.2.0",
     "typescript-require": "^0.3.0"
+  },
+  "devDependencies": {
+    "require": "^0.4.4",
+    "typescript": "^5.8.3"
   }
 }
